@@ -50,4 +50,16 @@ bash-5.3$
 
 ## Usage
 
-TBD
+Install via ZuBB's Homebrew tap:
+
+```sh
+brew tap ZuBB/tap
+brew install node-caged
+```
+
+The formula installs the published `darwin-arm64` binary release:
+
+```sh
+node --version
+npm --version
+```
