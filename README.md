@@ -50,7 +50,7 @@ bash-5.3$
 
 ## Usage
 
-Install via ZuBB's Homebrew tap:
+Install via ZuBB's [Homebrew tap](https://github.com/ZuBB/homebrew-tap):
 
 ```sh
 brew tap ZuBB/tap
